@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap');
+
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.heading{
+    background-color:#dcf7f0;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    line-height: 2;
+}
+h2{
+    padding-right: 10px;
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    line-height: 2;
+}
+.heading p {
+    font-size: 2rem;
+    color: #66BFBF;
+}
+.cloud2{ 
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.cloud1{ 
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.profile-img{
+    height: 200px;
+}
+.intro{
+    margin: 0 auto 0;
+    width: 30%;
+}
+.bottom-container{
+    margin: 20px 0 20px;
+    padding: 50px 0 20px;
+    line-height: 2;
+ background-color:#66BFBF;
+}
+.bottom-container p{
+    font-size: 0.75rem;
+   color: #EAF6F6
+}
+.footer-link{
+
+    margin: 0 10px 0;
+}
+hr{
+    margin: 100px auto 100px;
+    color: #EAF6F6;
+    width: 4%;
+    border:dotted;
+    border-bottom: none;
+}
+.skill-row{
+    width:50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.com-img{
+    margin: 0 30px 0;
+    width: 25%;
+    float: left;
+}
+
+.chilli-img{
+    margin: 0 30px 0;
+    width: 25%;
+    float: right;
+}
+
+.contact-me{
+    line-height: 2;
+    text-align: center;
+}
+.contact-message{
+    text-align: center;
+    margin: 0 auto 0;
+    width: 30%;
+}
+.btn{
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #66BFBF;
+    margin:2rem 0 2rem;
+    padding: 10px;
+    border: none;
+}
+.btn:hover{
+    background: #30e36b;
+}
+/* .top-container{
+    background-color: whitesmoke;
+    border: 10px solid black;
+    height: 200px;
+    width: 200px;
+}
+.middle-container{
+    background-color: rgb(219, 14, 14);
+    border: 20px solid black;
+    margin-left: 220px;
+    height: 200px;
+    width: 200px;
+}
+.bottom-container{
+    background-color: rgb(207, 245, 41);
+    border: 10px solid black;
+    margin-left: 460px;
+    height: 200px;
+    width: 200px;
+} */
